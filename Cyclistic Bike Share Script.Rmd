@@ -132,7 +132,7 @@ ggplot(df2,aes(x=month,fill=member_casual))+geom_bar(position="dodge")+
 ![](Rplot3.png)
 
 #### Analysis Summary
-The following observations are made from our analysis
+The following observations are made from our analysis.
 
 - Throughout the week there is very less change in the average number of member riders.However the average number of casual riders increases significantly during weekends,peaking on Saturdays.
 - At any given weekday,the average number of member riders is always more than the casual riders.
@@ -141,7 +141,7 @@ The following observations are made from our analysis
 - Only during June and July,the number of casual riders is more than the number of members.
 
 ## Recommendations
-Here are the top 3 recommendation to turn more casual riders to annual members
+Here are the top 3 recommendation to turn more casual riders to annual members.
 
 - Creating a special weekly membership that can be converted to annual membership to unlock additional services. 
 - Membership should include discounts for higher ride durations for the new members.

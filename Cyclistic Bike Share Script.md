@@ -2,7 +2,7 @@
 title: 'Cyclistic Bike Share Analysis: A Case Study'
 author: "Ananth P"
 date: "11/09/2021"
-output: rmdformats::readthedown
+output: github_document
 ---
 
 ## Introduction 

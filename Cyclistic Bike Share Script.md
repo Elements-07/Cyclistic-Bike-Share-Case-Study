@@ -1,9 +1,9 @@
-Cyclistic Bike Share Analysis: A Case Study
-============================================
-
-Ananth P 
-
-11/09/2021
+---
+title: 'Cyclistic Bike Share Analysis: A Case Study'
+author: "Ananth P"
+date: "11/09/2021"
+output: rmdformats::readthedown
+---
 
 ## Introduction 
 This case study is a part of the 'Google Data Analytics Professional Certificate' offered by Coursera.
@@ -131,7 +131,7 @@ ggplot(df2,aes(x=month,fill=member_casual))+geom_bar(position="dodge")+
 
 ![](Rplot3.png)
 
-### Analysis Summary:
+#### Analysis Summary
 The following observations are made from our analysis.
 
 - Throughout the week there is very less change in the average number of member riders.However the average number of casual riders increases significantly during weekends,peaking on Saturdays.
